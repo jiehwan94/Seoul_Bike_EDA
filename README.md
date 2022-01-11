@@ -1,5 +1,3 @@
-# Seoul_Bike_EDA
-
 ### Trip Pattern
 <img src="https://user-images.githubusercontent.com/15040724/148990308-daefb1c5-d0f4-43ab-b862-c392e75c961a.png" alt="a" width="500"/>
 
