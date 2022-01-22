@@ -7,5 +7,5 @@
 ## Rental Pattern by Clusters
 <img src="https://user-images.githubusercontent.com/15040724/148989727-2da08fb9-38ad-4708-8e39-05b381f4f256.jpg" alt="a" width="500"/>
 
-## Clustering Stations
+## Clustering Counties by Trip Pattern
 <img src="https://user-images.githubusercontent.com/15040724/148989503-d09ad447-9fc9-4cfb-8423-bc87c0dd5417.jpg" alt="a" width="500"/>
